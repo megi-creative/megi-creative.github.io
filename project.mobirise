@@ -194,7 +194,7 @@
               "size": 250
             }
           },
-          "title": "FACE COVERING",
+          "title": "FACE COVERING<br>HOME MADE IN UK",
           "text": "Fabric Face Covering, Black &amp; White,<br> Washable Face Covering, <br>filter pocket",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"html.html#gallery4-e\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -2041,82 +2041,6 @@
           "_anchor": "ext_menu-b"
         },
         {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#303030",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "title1": "model 1&nbsp;",
-          "title2": "BUSINESS",
-          "title3": "PREMIUM",
-          "title4": "ULTIMATE",
-          "subtitle1": "face covering black",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "£",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "5,50",
-          "price2": "0",
-          "price3": "0",
-          "price4": "0",
-          "period1": "<br><br>",
-          "period2": "/mo.",
-          "period3": "/mo.",
-          "period4": "/mo.",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"html.html#gallery4-e\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-w"
-        },
-        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -2138,7 +2062,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-723-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "LIPS BLACK",
                 "active": true
               },
               {
@@ -2150,7 +2074,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-724-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "HEART BLACK",
                 "active": false
               },
               {
@@ -2162,7 +2086,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-725-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SYMBOL A BLACK",
                 "active": false
               },
               {
@@ -2174,7 +2098,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-726-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SYMBOL B BLACK",
                 "active": false
               },
               {
@@ -2186,7 +2110,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-727-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "model 1&nbsp;",
+                "caption": "SMILE A BLACK",
                 "active": false
               },
               {
@@ -2198,7 +2122,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-728-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SMILE B BLACK",
                 "active": false
               },
               {
@@ -2210,7 +2134,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-729-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "PIRATE BLACK",
                 "active": false
               },
               {
@@ -2222,7 +2146,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-730-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "FISH BLACK",
                 "active": false
               },
               {
@@ -2234,7 +2158,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-731-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "RAINBOW HEART BLACK",
                 "active": false
               },
               {
@@ -2246,7 +2170,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-732-2000x1249-800x500.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "BLACK BLACK",
                 "active": false
               },
               {
@@ -2258,7 +2182,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-754-2000x1336-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "ALL MODEL BLACK",
                 "active": false
               },
               {
@@ -2270,7 +2194,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-733-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SYMBOL B WHITE",
                 "active": false
               },
               {
@@ -2282,7 +2206,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-734-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SYMBOL A WHITE",
                 "active": false
               },
               {
@@ -2294,7 +2218,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-735-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "RAINBOW HEART WHITE",
                 "active": false
               },
               {
@@ -2306,7 +2230,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-736-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "HEART WHITE",
                 "active": false
               },
               {
@@ -2318,7 +2242,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-737-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "LIPS WHITE",
                 "active": false
               },
               {
@@ -2330,7 +2254,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-738-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SMILE A WHITE",
                 "active": false
               },
               {
@@ -2342,7 +2266,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-739-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SMILE D WHITE<br>",
                 "active": false
               },
               {
@@ -2354,7 +2278,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-740-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SMILE C WHITE",
                 "active": false
               },
               {
@@ -2366,7 +2290,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-741-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "SMILE B WHITE",
                 "active": false
               },
               {
@@ -2378,7 +2302,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-742-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "FISH WHITE",
                 "active": false
               },
               {
@@ -2390,7 +2314,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-743-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "PIRATE WHITE",
                 "active": false
               },
               {
@@ -2402,7 +2326,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-744-2000x1075-800x430.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "WHITE",
                 "active": false
               },
               {
@@ -2414,7 +2338,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-755-2000x1985-800x794.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "MODEL WHITE&nbsp;",
                 "active": false
               }
             ]
