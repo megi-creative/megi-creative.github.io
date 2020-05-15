@@ -725,6 +725,12 @@ section.form .container {
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#pricing-table1-w .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-w .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #contacts4-g .btn {
   font-size: 13px;
 }
